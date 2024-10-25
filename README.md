@@ -23,8 +23,8 @@ Make sure you have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/MazenAbdallaAbdelhadi/product-list-with-cart.git
-   cd product-list-with-cart
+   git clone https://github.com/MazenAbdallaAbdelhadi/product-list-with-cart-main.git
+   cd product-list-with-cart-main
    ```
 
 2. Install dependencies:
